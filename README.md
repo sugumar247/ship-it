@@ -1,5 +1,9 @@
 # ship-it
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
+![Works with](https://img.shields.io/badge/works%20with-Claude%20%7C%20Gemini%20%7C%20OpenCode-blueviolet)
+
 A skill for AI coding agents that generates 6 professional project documents — PRD, TRD, UI/UX Design, Appflow, Backend Schema, and Implementation Plan.
 
 Built for the [agent skills ecosystem](https://skills.sh). Works with Claude Code, Gemini CLI, OpenCode, Cursor, Codex, Antigravity, and [50+ other agents](https://github.com/vercel-labs/skills#supported-agents).
