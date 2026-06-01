@@ -1,5 +1,5 @@
 ---
-name: project-docs
+name: ship-it
 description: >
   Generate professional, production-grade project documentation across all 6 pillars:
   PRD (Product Requirements Document), TRD (Technical Requirements Document), UI/UX Design,
@@ -15,7 +15,7 @@ author: community
 license: MIT
 ---
 
-# Project Docs Skill
+# ship-it Skill
 
 Generates 6 professional project documents with real depth — not generic filler.
 Every document is grounded in project-specific context gathered before generation.
