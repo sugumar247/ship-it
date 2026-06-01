@@ -1,4 +1,4 @@
-# project-docs
+# ship-it
 
 A skill for AI coding agents that generates 6 professional project documents — PRD, TRD, UI/UX Design, Appflow, Backend Schema, and Implementation Plan.
 
@@ -9,21 +9,21 @@ Built for the [agent skills ecosystem](https://skills.sh). Works with Claude Cod
 ## Install
 
 ```bash
-npx skills add your-username/project-docs
+npx skills add sugumar247/ship-it
 ```
 
 The [skills CLI](https://github.com/vercel-labs/skills) will detect your installed agents and ask which ones to install to. That's it.
 
 **Install globally** (available in every project):
 ```bash
-npx skills add your-username/project-docs -g
+npx skills add sugumar247/ship-it -g
 ```
 
 **Install to a specific agent only:**
 ```bash
-npx skills add your-username/project-docs -a claude-code
-npx skills add your-username/project-docs -a gemini-cli
-npx skills add your-username/project-docs -a opencode
+npx skills add sugumar247/ship-it -a claude-code
+npx skills add sugumar247/ship-it -a gemini-cli
+npx skills add sugumar247/ship-it -a opencode
 ```
 
 ---
@@ -108,16 +108,16 @@ If you prefer not to use `npx skills`:
 
 ```bash
 # Claude Code
-git clone https://github.com/your-username/project-docs ~/.claude/skills/project-docs
+git clone https://github.com/sugumar247/ship-it ~/.claude/skills/ship-it
 
 # Gemini CLI
-git clone https://github.com/your-username/project-docs ~/.gemini/skills/project-docs
+git clone https://github.com/sugumar247/ship-it ~/.gemini/skills/ship-it
 
 # OpenCode
-git clone https://github.com/your-username/project-docs ~/.config/opencode/skills/project-docs
+git clone https://github.com/sugumar247/ship-it ~/.config/opencode/skills/ship-it
 
 # Antigravity
-git clone https://github.com/your-username/project-docs ~/.gemini/antigravity/skills/project-docs
+git clone https://github.com/sugumar247/ship-it ~/.gemini/antigravity/skills/ship-it
 ```
 
 ---
